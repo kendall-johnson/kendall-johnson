@@ -39,7 +39,7 @@ Syntaxify is a Full-Stack Web Application that utilizes Node.js, Express.js, Mon
 I'm currently working on:
 
 - [Perched](https://github.com/kendall-johnson/perched): Implement more user functionality and mobile friendly design.
-- [React Native]: Learning about how to create mobile fluent applications that can function as intended across all devices.
+- React Native: Learning about how to create mobile fluent applications that can function as intended across all devices.
 
 ## 💬 Let's Connect
 
