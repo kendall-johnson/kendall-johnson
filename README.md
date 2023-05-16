@@ -9,20 +9,21 @@ Here are some of my notable repositories:
 ### [Perched](https://github.com/kendall-johnson/perched)
 Perched is a cutting-edge freelancing marketplace built with React, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS, and JavaScript, designed to help creatives showcase their skills and connect with clients.
 
+- ![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![Node.js badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 - ![Tailwind badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - ![MongoDB badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![Express.js badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-- ![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### [Brainwaves](https://github.com/kendall-johnson/brainwaves)
 Brainwaves is a Full-Stack React Web Application that utilizes Node.js, Express.js, React, MongoDB, Mongoose, Tailwind Css, and JavaScript to help users track their moods over time. 
 
+- ![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![Node.js badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 - ![Tailwind badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - ![MongoDB badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![Express.js badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-- ![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ### [Syntaxify](https://github.com/https-github-com-anthonykhong/Syntaxify)
 Syntaxify is a Full-Stack Web Application that utilizes Node.js, Express.js, MongoDB, Mongoose, Tailwind Css, and JavaScript to create a fully immersive experience for users to expand their understanding of the three main sectors of programming, LANGUAGES, FRAMEWORKS, and DATABASES.
@@ -31,7 +32,7 @@ Syntaxify is a Full-Stack Web Application that utilizes Node.js, Express.js, Mon
 - ![Tailwind badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - ![MongoDB badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![Express.js badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-- ![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ## 🌱 Current Focus
 
