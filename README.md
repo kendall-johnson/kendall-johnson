@@ -49,7 +49,7 @@ I'm always interested in collaborating and discussing exciting opportunities. Fe
 
 You can also reach me via email at [kendalljohnsonse@gmail.com](mailto:kendalljohnsonse@gmail.com).
 
-## ⚡ About Me
+## ⚡ Quick Fact
 
 I am a creative-minded, socially driven programmer who loves to work on products that create positive impact on humans. I thrive off the feedback of others, and love to use criticism as an opportunity to grow and learn more. 
 
